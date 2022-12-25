@@ -17,14 +17,15 @@ Hướng dẫn sử dụng
 Các lệnh thực thi để đóng mở và cài đặt thông số:
 (Chỉ cần gõ =Backup_ các hàm liên quan sẽ được gợi ý)
 
-Thực thi	Gõ Hàm ô bất kỳ	Chú thích
-Mở form đầy đủ cài đặt	=Backup_Settings()	
-Bật sao lưu tự động	=Backup_On()	
-Tắt sao lưu tự động	=Backup_Off()	
-Sao lưu bằng tay	=Backup_BookActivated()	Hữu dụng khi đã tắt sao lưu tự động
-Hiện thư mục sao lưu	=Backup_ShowDirectories()	
-Thay đổi thư mục sao lưu	=Backup_ChooseDirectories()	
-Khôi phục cài đặt mặc định	=Backup_Reset()	
+Thực thi	|Gõ Hàm ô bất kỳ	|Chú thích
+---------|----------------|-----------------
+Mở form đầy đủ cài đặt	|=Backup_Settings()	|
+Bật sao lưu tự động|	=Backup_On()	|
+Tắt sao lưu tự động|	=Backup_Off()	|
+Sao lưu bằng tay|	=Backup_BookActivated()	Hữu dụng khi đã tắt sao lưu tự động|
+Hiện thư mục sao lưu|	=Backup_ShowDirectories()	|
+Thay đổi thư mục sao lưu|	=Backup_ChooseDirectories()	|
+Khôi phục cài đặt mặc định|	=Backup_Reset()	|
 
 Mục cài đặt của Add-in
 
