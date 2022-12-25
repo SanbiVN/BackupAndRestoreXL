@@ -28,28 +28,25 @@ Khôi phục cài đặt mặc định	=Backup_Reset()
 
 Mục cài đặt của Add-in
 
-settings add-in backup and restore.png
+
+![settings add-in backup and restore](https://user-images.githubusercontent.com/58664571/209465582-8e547548-f1ba-4be1-8bd7-e97490a6c462.png)
 
 
+###Danh sách sao lưu và khôi phục
 
-Danh sách sao lưu và khôi phục
-
-
-list add-in backup and restore.png
+![list add-in backup and restore](https://user-images.githubusercontent.com/58664571/209465576-38f9c089-db63-4232-b41f-58d29585aa06.png)
 
 
-
-Phím tắt
+###Phím tắt
 
 Ctrl+Alt+S để thực hiện sao lưu dự án hiện tại, khi chế độ tự động sao lưu đã tắt.
 Ctrl+Alt+D để mở thư mục chứa tệp đã sao lưu.
 
-Cài đặt
+###Cài đặt
 
 Vào tab Developer, vào Excel Add-in, sau đó nhấn Browse... để đến đường dẫn chứa Add-in.
 
-setup add-in backup and restore.png
-
+![setup add-in backup and restore](https://user-images.githubusercontent.com/58664571/209465567-24c182a2-3724-491e-97aa-813aaee998e2.png)
 
 
 Đây là phiên bản đầu tay nên sẽ có lỗi xảy ra trong quá trình sử dụng, các bạn tham khảo và đóng góp ý kiến bên dưới bài viết.
