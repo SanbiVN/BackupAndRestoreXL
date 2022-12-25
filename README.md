@@ -27,23 +27,23 @@ Hiện thư mục sao lưu|	=Backup_ShowDirectories()	|
 Thay đổi thư mục sao lưu|	=Backup_ChooseDirectories()	|
 Khôi phục cài đặt mặc định|	=Backup_Reset()	|
 
-Mục cài đặt của Add-in
+# Mục cài đặt của Add-in
 
 
 ![settings add-in backup and restore](https://user-images.githubusercontent.com/58664571/209465582-8e547548-f1ba-4be1-8bd7-e97490a6c462.png)
 
 
-###Danh sách sao lưu và khôi phục
+# Danh sách sao lưu và khôi phục
 
 ![list add-in backup and restore](https://user-images.githubusercontent.com/58664571/209465576-38f9c089-db63-4232-b41f-58d29585aa06.png)
 
 
-###Phím tắt
+# Phím tắt
 
 Ctrl+Alt+S để thực hiện sao lưu dự án hiện tại, khi chế độ tự động sao lưu đã tắt.
 Ctrl+Alt+D để mở thư mục chứa tệp đã sao lưu.
 
-###Cài đặt
+# Cài đặt
 
 Vào tab Developer, vào Excel Add-in, sau đó nhấn Browse... để đến đường dẫn chứa Add-in.
 
