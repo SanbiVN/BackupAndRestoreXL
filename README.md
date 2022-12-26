@@ -10,9 +10,9 @@ Với Add-in này hoàn toàn tự động sao lưu sau mỗi lần bạn thực
 Với việc cài đặt các thông số một cách dễ dàng với form hoặc hàm.
 Với các chức năng sao lưu, khôi phục, xóa tệp sao lưu rất linh hoạt.
 
-Add-in có một chức năng đơn giản nhưng sẽ khiến các bạn thích thú khi sử dụng đó là thông báo khi vừa thao tác lưu. Giúp các bạn biết được ứng dụng đã được lưu một cách trực quan.
+Add-in có một chức năng đơn giản nhưng sẽ khiến các bạn thích thú khi sử dụng, đó là thông báo Tên tệp, dung lượng và thời gian lưu sau khi bạn thao tác lưu. Giúp các bạn biết được ứng dụng đã được lưu một cách trực quan.
 
-Hướng dẫn sử dụng
+# Hướng dẫn sử dụng
 
 Các lệnh thực thi để đóng mở và cài đặt thông số:
 (Chỉ cần gõ =Backup_ các hàm liên quan sẽ được gợi ý)
