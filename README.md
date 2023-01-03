@@ -33,7 +33,7 @@ Khôi phục cài đặt mặc định|	=Backup_Reset()	|
 # Mục cài đặt của Add-in
 
 
-![settings add-in backup and restore](https://user-images.githubusercontent.com/58664571/209465582-8e547548-f1ba-4be1-8bd7-e97490a6c462.png)
+![settings backup and restore excel](https://user-images.githubusercontent.com/58664571/210329538-739b6a8f-0833-48cb-a9d4-199f6d894b26.jpg)
 
 
 # Danh sách sao lưu và khôi phục
