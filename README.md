@@ -43,8 +43,8 @@ Khôi phục cài đặt mặc định|	=Backup_Reset()	|
 
 # Phím tắt
 
-Ctrl+Alt+S để thực hiện sao lưu dự án hiện tại, khi chế độ tự động sao lưu đã tắt.
-Ctrl+Alt+D để mở thư mục chứa tệp đã sao lưu.
+Ctrl+Alt+Shift+S để thực hiện sao lưu dự án hiện tại, khi chế độ tự động sao lưu đã tắt.\
+Ctrl+Alt+Shift+D để mở thư mục chứa tệp đã sao lưu.
 
 # Cài đặt
 
