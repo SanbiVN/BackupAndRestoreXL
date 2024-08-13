@@ -1,9 +1,9 @@
 # BackupAndRestoreXL
  Add-in giúp tự động Lưu, Sao lưu và khôi phục dự án Excel
 
-[Click vào đây để tải xuống](https://github.com/SanbiVN/BackupAndRestoreXL/releases/download/backup_and_restore_excel/BackupAndRestoreXL_v2.1.zip)
+[Click vào đây để tải xuống](https://github.com/SanbiVN/BackupAndRestoreXL/releases/download/backup_and_restore_excel/BackupAndRestoreXL_v2.22.zip)
 
-[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/BackupAndRestoreXL/total.svg)](https://github.com/SanbiVN/BackupAndRestoreXL/releases/download/backup_and_restore_excel/BackupAndRestoreXL_v2.1.zip) 
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/BackupAndRestoreXL/total.svg)](https://github.com/SanbiVN/BackupAndRestoreXL/releases/download/backup_and_restore_excel/BackupAndRestoreXL_v2.22.zip) 
 
 
 Hôm nay tôi chia sẻ với các bạn Add-in tự động Lưu, Sao lưu và khôi phục dự án Excel, giúp bảo vệ dữ án của bạn tránh khỏi những rủi ro như:
